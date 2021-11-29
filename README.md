@@ -4,9 +4,9 @@
 ### FrontEnd Developer 
 ![FrontEnd Developer ](https://media-exp1.licdn.com/dms/image/C5616AQHwUeFXZNbpUg/profile-displaybackgroundimage-shrink_200_800/0/1611605368642?e=1643846400&v=beta&t=2acRxDJbtPmtkEHXKUHa_w4ndpe-k_thULt0tM1eC2U)
 
-An enthusiastic developer who works with cutting-edge technologies with extreme dedication to fulfill the expectations.
+## An enthusiastic developer who works with cutting-edge technologies with extreme dedication to fulfill the expectations.
 
-I have expertise with the following web/mobile technologies:
+## I have expertise with the following web/mobile technologies:
 
 Skills: FrontEnd - Core JavaScript/TypeScript - ReactJs - React Native - CSS/SCSS - Material Design/Bootstrap/Tailwind CSS  Backend - Node.js (Express/Hapi.js/Koa.js/Sails.js) - Firebase  Database - MongoDB - GraphQL - Firebase real-time database  Version Control: - Git  DevOps - AWS - Amazon Web Services - Docker - Kubernetes
 
@@ -17,9 +17,7 @@ Skills: FrontEnd - Core JavaScript/TypeScript - ReactJs - React Native - CSS/SCS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ziaalikhan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ziaalikhan&show_icons=true)  
 
 
 
