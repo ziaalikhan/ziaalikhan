@@ -11,7 +11,7 @@
 ## I have expertise with the following web technologies:
 
 Skills:
-* FrontEnd :
+## FrontEnd :
 - Core JavaScript/TypeScript 
 - ReactJs 
 - Gatsby Js
@@ -20,18 +20,18 @@ Skills:
 - Material Design/Bootstrap/Tailwind CSS
 
 
-* BackEnd
+## BackEnd :
 - GraphQL 
 
-* DataBase :
+## DataBase :
 - MongoDb
 - FaunaDb
 - FireBase DataBase 
 
-* Version Control :
+## Version Control :
 - Git
 
-* Deployment :
+## Deployment :
 - Firebase
 - Netlify
 - Vercel
