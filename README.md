@@ -4,7 +4,7 @@
 
 ### JamStack Developer 
 
-![FrontEnd Developer ](https://media-exp1.licdn.com/dms/image/C5616AQHwUeFXZNbpUg/profile-displaybackgroundimage-shrink_200_800/0/1611605368642?e=1643846400&v=beta&t=2acRxDJbtPmtkEHXKUHa_w4ndpe-k_thULt0tM1eC2U)
+![FrontEnd Developer ](https://github.com/ziaalikhan/ziaalikhan/blob/main/psd%20(1).png)
 
 ## An enthusiastic developer who works with cutting-edge technologies with extreme dedication to fulfill the expectations.
 
