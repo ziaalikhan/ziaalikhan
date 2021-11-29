@@ -10,7 +10,8 @@
 
 ## I have expertise with the following web technologies:
 
-Skills:
+# Skills:
+
 ## FrontEnd :
 - Core JavaScript/TypeScript 
 - ReactJs 
