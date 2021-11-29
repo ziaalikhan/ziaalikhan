@@ -4,7 +4,7 @@
 
 ### JamStack Developer 
 
-![FrontEnd Developer ](https://github.com/ziaalikhan/ziaalikhan/blob/main/psd%20(1).png)
+![FrontEnd Developer ](https://github.com/ziaalikhan/ziaalikhan/blob/main/Cosmetics%20Discount%20Sale%20Landscape%20Banner.png)
 
 ## An enthusiastic developer who works with cutting-edge technologies with extreme dedication to fulfill the expectations.
 
