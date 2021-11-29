@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello World 👋
+
+I' am Zia Ur Rehman From Pakistan..
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziaalikhan)](https://github.com/ziaalikhan/github-readme-stats)
 
 <!--
-**ziaalikhan/ziaalikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
