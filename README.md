@@ -1,4 +1,4 @@
-# Hello To The World ![b9371273ae94a946e92074d1b9696680](https://user-images.githubusercontent.com/64406037/146223135-c3fe4a5f-6f43-4334-bdca-1b6433b7f33c.gif)
+# Hello To The World 👋 
 
 ## Hi' I am Zia Ur Rehman From Pakistan
 
