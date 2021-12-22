@@ -24,6 +24,7 @@ works with cutting-edge technologies with extreme dedication to fulfill the expe
 
 ## BackEnd :
 - GraphQL 
+- Apollo server
 
 ## DataBase :
 - MongoDb
