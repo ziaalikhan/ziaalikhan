@@ -25,6 +25,8 @@ works with cutting-edge technologies with extreme dedication to fulfill the expe
 ## BackEnd :
 - GraphQL 
 - Apollo server
+- Node JS
+- Express JS
 
 ## DataBase :
 - MongoDb
@@ -60,14 +62,6 @@ works with cutting-edge technologies with extreme dedication to fulfill the expe
 
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on == React JS / JamStack
-- 🌱 I’m currently learning == Node Js / MongoDb
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: https://ziadeveloperportfolio.surge.sh/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
