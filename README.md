@@ -1,7 +1,3 @@
-Here’s your updated GitHub README including Python and your journey in Data Science:
-
----
-
 # Hi, I'm Zia Ur Rehman 👋
 
 🚀 **Full Stack MERN Developer | Python Enthusiast | Aspiring Data Scientist**  
